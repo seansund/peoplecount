@@ -1,0 +1,6 @@
+[submodule "peoplecount-camera"]
+	path = peoplecount-camera
+	url = https://github.com/seansund/peoplecount-camera
+[submodule "peoplecount-server"]
+	path = peoplecount-server
+	url = https://github.com/seansund/peoplecount-server
